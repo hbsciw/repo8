@@ -1,0 +1,540 @@
+{
+  "repo": {
+    "timestamp": 1630377665000,
+    "version": 21,
+    "name": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f8",
+    "icon": "default-repo-icon.png",
+    "address": "https://github.com/hbsciw/repo8/raw/master/fdroid/repo",
+    "description": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f8",
+    "mirrors": [
+      "https://github.com/hbsciw/repo8/raw/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "5",
+      "license": "Unknown",
+      "name": "Farm for kids",
+      "added": 1630360763000,
+      "icon": "com.YovoGames.farm3.5.png",
+      "packageName": "com.YovoGames.farm3",
+      "lastUpdated": 1630377659000
+    },
+    {
+      "suggestedVersionCode": "1000054",
+      "license": "Unknown",
+      "name": "Guess the Sounds",
+      "added": 1630360776000,
+      "icon": "com.smartkids.soundsmemory.1000054.png",
+      "packageName": "com.smartkids.soundsmemory",
+      "lastUpdated": 1630377664000
+    },
+    {
+      "suggestedVersionCode": "32",
+      "license": "Unknown",
+      "name": "Hidden Objects - Can you find all the items?",
+      "added": 1630360766000,
+      "icon": "com.pingvigames.hidden.objects.find.items.32.png",
+      "packageName": "com.pingvigames.hidden.objects.find.items",
+      "lastUpdated": 1630377663000
+    },
+    {
+      "suggestedVersionCode": "10",
+      "license": "Unknown",
+      "name": "Kiddos In Camp",
+      "added": 1630360771000,
+      "icon": "com.ohanian.kiddosincamp.10.png",
+      "packageName": "com.ohanian.kiddosincamp",
+      "lastUpdated": 1630377660000
+    },
+    {
+      "suggestedVersionCode": "25",
+      "license": "Unknown",
+      "name": "Kiddos In Kindergarten",
+      "added": 1630360774000,
+      "icon": "com.ohanian.kiddosinkindergarten.25.png",
+      "packageName": "com.ohanian.kiddosinkindergarten",
+      "lastUpdated": 1630377661000
+    },
+    {
+      "suggestedVersionCode": "50",
+      "license": "Unknown",
+      "name": "Math Kids",
+      "added": 1630360761000,
+      "icon": "com.rvappstudios.math.kids.counting.50.png",
+      "packageName": "com.rvappstudios.math.kids.counting",
+      "lastUpdated": 1630377658000
+    },
+    {
+      "suggestedVersionCode": "1",
+      "license": "Unknown",
+      "name": "Wooden Puzzle Kids",
+      "added": 1630360770000,
+      "icon": "net.lemau.woodenpuzzlekids.1.png",
+      "packageName": "net.lemau.woodenpuzzlekids",
+      "lastUpdated": 1630377665000
+    },
+    {
+      "suggestedVersionCode": "12",
+      "license": "Unknown",
+      "name": "\u06a9\u0648\u062f\u06a9 \u062f\u0627\u0646\u0627",
+      "added": 1630360773000,
+      "icon": "com.peyman.wisekid.12.png",
+      "packageName": "com.peyman.wisekid",
+      "lastUpdated": 1630377662000
+    }
+  ],
+  "packages": {
+    "com.YovoGames.farm3": [
+      {
+        "added": 1630377659000,
+        "apkName": "com.YovoGames.farm3_5_apps.evozi.com.apk",
+        "hash": "eac1e18d8810787d4f0fe7128c882cc2a55a56174c9fa53192fb86beb0694d4b",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.YovoGames.farm3",
+        "sig": "76c7bc2c49e4d11c502178931a407842",
+        "signer": "08fd4d8fbbec48bdcda61c4a22eb71f1634dc674e37841d6c9c1f36db81e81db",
+        "size": 28601519,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "1.0.5"
+      }
+    ],
+    "com.ohanian.kiddosincamp": [
+      {
+        "added": 1630377660000,
+        "apkName": "com.ohanian.kiddosincamp_10_apps.evozi.com.apk",
+        "hash": "ff42852b7c4ac0c0db73f26909593a2e68894cee62207c017804e23a7734e9c9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "com.ohanian.kiddosincamp",
+        "sig": "d90a6df8729a8cb0b2623da5881b779b",
+        "signer": "2b040baeaebfb0890e2be8c09992f2bad53d8f566ccfdf1c35d3c5a1ee5834d7",
+        "size": 27287695,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.ohanian.kiddosincamp.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 10,
+        "versionName": "1.1.0"
+      }
+    ],
+    "com.ohanian.kiddosinkindergarten": [
+      {
+        "added": 1630377661000,
+        "apkName": "com.ohanian.kiddosinkindergarten_25_apps.evozi.com.apk",
+        "hash": "8bbd715f487bfe4f4b7850e3a84ce171226c5edfc9250fa162c67c83b622f346",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "com.ohanian.kiddosinkindergarten",
+        "sig": "ce4f86812ff10ce4bf11df472fd4423a",
+        "signer": "a4f0da14fb34293bcf2dd9592e29810740fa8087f424a29f6abec1eaad0ea368",
+        "size": 39092728,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.ohanian.kiddosinkindergarten.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 25,
+        "versionName": "1.1.9"
+      }
+    ],
+    "com.peyman.wisekid": [
+      {
+        "added": 1630377662000,
+        "apkName": "com.peyman.wisekid_12_apps.evozi.com.apk",
+        "hash": "fc46a855229e584977e15d64ec3fcb330c4cc523e36b0a0ee2e24f00dc113d3c",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "packageName": "com.peyman.wisekid",
+        "sig": "de70b2206124e2499c7443995c4c372d",
+        "signer": "42b3263f7f3b3f7e6b2f079f20aecc542ff3dadae24ba85b690c7c2d17756e29",
+        "size": 16771111,
+        "targetSdkVersion": 19,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.peyman.wisekid.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 12,
+        "versionName": "1.7"
+      }
+    ],
+    "com.pingvigames.hidden.objects.find.items": [
+      {
+        "added": 1630377663000,
+        "apkName": "com.pingvigames.hidden.objects.find.items_32_apps.evozi.com.apk",
+        "hash": "70d11f54f18602820fef80ea578d2f9d8bf057a8acf49073f51c830af08ea00a",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.pingvigames.hidden.objects.find.items",
+        "sig": "1a82cb870cd773361d2de9bdb3c5f086",
+        "signer": "97639fa705a504459d93da3b99f788e5188c914891aff77a709a7b5be4ce31d2",
+        "size": 53722667,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 32,
+        "versionName": "1.35"
+      }
+    ],
+    "com.rvappstudios.math.kids.counting": [
+      {
+        "added": 1630377658000,
+        "apkName": "4_5865977229485280079.apk.apk",
+        "hash": "6f8dd0614265af297a48645cee5ef66ca983ca329ff6e3f3f0a57398dc99ab57",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.rvappstudios.math.kids.counting",
+        "sig": "7f0c89b47c1d88730f9a8f793fd2051c",
+        "signer": "8adecbd1b1c5d341c09597bff3ad4ea9dd9c8cfaf23e5c528a994269553d4c7c",
+        "size": 36501048,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 50,
+        "versionName": "1.2.9"
+      }
+    ],
+    "com.smartkids.soundsmemory": [
+      {
+        "added": 1630377664000,
+        "apkName": "com.smartkids.soundsmemory_1000054_apps.evozi.com.apk",
+        "hash": "96a7a8cc43ca565b2e2bed3f38c062dc31429dec7aff62c7298512cf4c9e2d86",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.smartkids.soundsmemory",
+        "sig": "7ca1f0ec4b481e5c1a3550f9302e9e66",
+        "signer": "51f9e79db6e6f948b1a584cbc2f61e9cb658d981664a4079be89ce565eae6b41",
+        "size": 16280405,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 1000054,
+        "versionName": "1.0.54"
+      }
+    ],
+    "net.lemau.woodenpuzzlekids": [
+      {
+        "added": 1630377665000,
+        "apkName": "net.lemau.woodenpuzzlekids_1_apps.evozi.com.apk",
+        "hash": "9b01a3a2a8052b8f2e1806dcbf68408a70f2787790354c8cc47e91265cf4048a",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.lemau.woodenpuzzlekids",
+        "sig": "1976221135d2c5b20683b533eda54a34",
+        "signer": "3ddab9a034902212f668798d3495174377ca189bb58134d1a6425039d6c91afa",
+        "size": 15337875,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ]
+  }
+}
