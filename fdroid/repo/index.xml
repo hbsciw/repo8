@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="default-repo-icon.png" name="کاردرمانی۸" pubkey="30820503308202eba00302010202041906bbba300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333530315a170d3439303131353139333530315a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009e6b8f4ef7a3f19c8523bfb5a058f57968116d92ede1149e99078dab3b784a85c37c30e7839d5eb024488182bd37bad1586728c3f8087f7c962717a975dcbf3ebcc15960326066e780cf32766d4f5c6297f5d91bc2d11bb0c37112c187459127465cefa4bfd195d04b2b8bffb95e56b0076ec7e7e2b0d55e0d1db37f8581bbb84f691b9523a38252a4df0c761b51c753affaa33a459d2830bf57f8e6b49d9b54f0dd63b6bc4b36a68d19fb3042f76295644a304a94ae8b6238ee06ab89db85043138315d7ec78745357e0b56c11a1d8767a4386914948b998cc311e9ba2eab13490fd2060f1bd95b1e80751172940f8957e2981e614aca0f4c0317b4ba3c03685d3a1d173e5ddaaa0b0d73dd1e1b238bb9d6377b4794049294c8f613ff8dd02ed5e59660d12e7b516f622605d361b887dd09e5ec0e495ab053fa24a2d0cbc7bba1c1399b7d95c705baf8034e953a0fce0ada44e1a8d6685f96fc795ce51960db41102301575391f4c3acc553bb3c40d73a9c9d406e8d4f52614a685df669031193408053e1702798e45a1d30b3294327a6a188fbf32774231184f16ce8af91d7e0e76f3ce5b0ea4bc7c52e8a958ccc98d1b8f6db00793eaef06b639fca87a261bc1723f5bffe697aa38e225f292160d32de30a0ce1a4502b77bf16bafc1f305117b120e2aba0a392cc0597f64cec2ac72628d9abe27f5d6e3675355f6afa1fa10203010001a321301f301d0603551d0e041604140f0a2747363d299da7cd984f40dd7251763800de300d06092a864886f70d01010b050003820201003f842f84e05b1e57f4821d83a7757c6560f4bb93a741fede55c380f0db6af88d5903becc3488cff229855c43fc7330a04fa0df437a03b199f50fd7f5a5edc78b05bad881d1171b444fa4ac53706726d9de27c592958c5b4f19f55eaa70e90e06734b6b22b2e250f5db5158b31e4d2c25a049de2ac008545f6c1177eb565bd8d9290e741a23c6e9bb8139a44513dc56dbdb9e6b16574ad1df9fa0ff4a2fc706becb766330d7d4fcb206716faf3e8e4fa647f9a98679a50175b4811c9851c08f6a9dfbcaa4fbf97ae67b315fe7d43db1fad2a49f60467785b3522de602d4239511c8ced255862963016b27eb3dc8a562c58867f7ee449793edfa087cffdd8c9f8657ff4761fbb9c640a4f9bcef68764304c33e9e07d52a4bf9bb713a1445d9d7979f170173c3b676008bfeb2173b74de2128e6cb22174e3fb78dc86847d628e24dac81107206caaee9b680a48dd5771d7b7dd482fdf30772fafcf4de403aa19e4845556bc7ff2f185c944882c1f374a7f4facfb1d036e92cdeb42b8021b45ac76adcb8db5fb4dd6df1dad1809e916171525e6a563b54a2e186b3003ebdb17a58d80da6cf694706526de8bed85910975247e6e0b28b163793f46a3d1b9253c1f9d5706dc2f64294f09070d6deb49831ef394dae4cb2588a1afe0490e8f052e6903eaa57bfd1469d174be1ff667209a1dddaca4ed0e4b775d6386fc43b5d2b31f273" timestamp="1630377665" url="https://github.com/hbsciw/repo8/raw/master/fdroid/repo" version="21">
+	<repo icon="default-repo-icon.png" name="کاردرمانی۸" pubkey="30820503308202eba00302010202041906bbba300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333530315a170d3439303131353139333530315a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009e6b8f4ef7a3f19c8523bfb5a058f57968116d92ede1149e99078dab3b784a85c37c30e7839d5eb024488182bd37bad1586728c3f8087f7c962717a975dcbf3ebcc15960326066e780cf32766d4f5c6297f5d91bc2d11bb0c37112c187459127465cefa4bfd195d04b2b8bffb95e56b0076ec7e7e2b0d55e0d1db37f8581bbb84f691b9523a38252a4df0c761b51c753affaa33a459d2830bf57f8e6b49d9b54f0dd63b6bc4b36a68d19fb3042f76295644a304a94ae8b6238ee06ab89db85043138315d7ec78745357e0b56c11a1d8767a4386914948b998cc311e9ba2eab13490fd2060f1bd95b1e80751172940f8957e2981e614aca0f4c0317b4ba3c03685d3a1d173e5ddaaa0b0d73dd1e1b238bb9d6377b4794049294c8f613ff8dd02ed5e59660d12e7b516f622605d361b887dd09e5ec0e495ab053fa24a2d0cbc7bba1c1399b7d95c705baf8034e953a0fce0ada44e1a8d6685f96fc795ce51960db41102301575391f4c3acc553bb3c40d73a9c9d406e8d4f52614a685df669031193408053e1702798e45a1d30b3294327a6a188fbf32774231184f16ce8af91d7e0e76f3ce5b0ea4bc7c52e8a958ccc98d1b8f6db00793eaef06b639fca87a261bc1723f5bffe697aa38e225f292160d32de30a0ce1a4502b77bf16bafc1f305117b120e2aba0a392cc0597f64cec2ac72628d9abe27f5d6e3675355f6afa1fa10203010001a321301f301d0603551d0e041604140f0a2747363d299da7cd984f40dd7251763800de300d06092a864886f70d01010b050003820201003f842f84e05b1e57f4821d83a7757c6560f4bb93a741fede55c380f0db6af88d5903becc3488cff229855c43fc7330a04fa0df437a03b199f50fd7f5a5edc78b05bad881d1171b444fa4ac53706726d9de27c592958c5b4f19f55eaa70e90e06734b6b22b2e250f5db5158b31e4d2c25a049de2ac008545f6c1177eb565bd8d9290e741a23c6e9bb8139a44513dc56dbdb9e6b16574ad1df9fa0ff4a2fc706becb766330d7d4fcb206716faf3e8e4fa647f9a98679a50175b4811c9851c08f6a9dfbcaa4fbf97ae67b315fe7d43db1fad2a49f60467785b3522de602d4239511c8ced255862963016b27eb3dc8a562c58867f7ee449793edfa087cffdd8c9f8657ff4761fbb9c640a4f9bcef68764304c33e9e07d52a4bf9bb713a1445d9d7979f170173c3b676008bfeb2173b74de2128e6cb22174e3fb78dc86847d628e24dac81107206caaee9b680a48dd5771d7b7dd482fdf30772fafcf4de403aa19e4845556bc7ff2f185c944882c1f374a7f4facfb1d036e92cdeb42b8021b45ac76adcb8db5fb4dd6df1dad1809e916171525e6a563b54a2e186b3003ebdb17a58d80da6cf694706526de8bed85910975247e6e0b28b163793f46a3d1b9253c1f9d5706dc2f64294f09070d6deb49831ef394dae4cb2588a1afe0490e8f052e6903eaa57bfd1469d174be1ff667209a1dddaca4ed0e4b775d6386fc43b5d2b31f273" timestamp="1630394286" url="https://github.com/hbsciw/repo8/raw/master/fdroid/repo" version="21">
 		<description>کاردرمانی۸</description>
 		<mirror>https://github.com/hbsciw/repo8/raw/master/fdroid/repo/repo</mirror>
 	</repo>
@@ -9,9 +9,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Farm for kids</name>
-		<summary></summary>
+		<summary>تفهیم ترتیب و توالی، شناخت محصولات کشاورزی، شناخت میوه</summary>
 		<icon>com.YovoGames.farm3.5.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تفهیم ترتیب و توالی، شناخت محصولات کشاورزی، شناخت میوه</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -65,9 +65,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Hidden Objects - Can you find all the items?</name>
-		<summary></summary>
+		<summary>بهبود visual perception(تشخیص شکل از زمینه و ثبات شکل)، بهبود دقت دیداری، بهبود مدیریت زمان،بهبود توجه مستمر</summary>
 		<icon>com.pingvigames.hidden.objects.find.items.32.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>بهبود visual perception(تشخیص شکل از زمینه و ثبات شکل)، بهبود دقت دیداری، بهبود مدیریت زمان،بهبود توجه مستمر</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -95,9 +95,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Kiddos In Camp</name>
-		<summary></summary>
+		<summary>دقت دیداری، ادراک بینایی(تشخیص شکل از زمینه، ثبات شکل)، مفهوم رنگ امیزی، اشنایی با اعداد انگلیسی، ارتقای vigilance و reaction time، اشنایی با مفهوم دسته بندی و شمارش، ارتقای تمییز شنیداری (برای کودکانی که حروف انگلیسی را بلدند)</summary>
 		<icon>com.ohanian.kiddosincamp.10.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>دقت دیداری، ادراک بینایی(تشخیص شکل از زمینه، ثبات شکل)، مفهوم رنگ امیزی، اشنایی با اعداد انگلیسی، ارتقای vigilance و reaction time، اشنایی با مفهوم دسته بندی و شمارش، ارتقای تمییز شنیداری (برای کودکانی که حروف انگلیسی را بلدند)</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -122,9 +122,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Kiddos In Kindergarten</name>
-		<summary></summary>
+		<summary>شناخت همرنگی، مفهوم دسته بندی، مفهوم تساوی، مفهوم رنگ امیزی، شناخت رنگ ها، شناخت اشکال هندسی، بهبود ادراک دیداری(اکمال دیداری)، مفهوم شمارش شناخت اعداد</summary>
 		<icon>com.ohanian.kiddosinkindergarten.25.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>شناخت همرنگی، مفهوم دسته بندی، مفهوم تساوی، مفهوم رنگ امیزی، شناخت رنگ ها، شناخت اشکال هندسی، بهبود ادراک دیداری(اکمال دیداری)، مفهوم شمارش شناخت اعداد</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -149,9 +149,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Math Kids</name>
-		<summary></summary>
+		<summary>شناخت اعداد، اموزش مفاهیم ریاضی(بیشتر و کمتر ومساوی، جمع و تفریق)،تقویت visual perception(اکمال دیداری)</summary>
 		<icon>com.rvappstudios.math.kids.counting.50.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>شناخت اعداد، اموزش مفاهیم ریاضی(بیشتر و کمتر ومساوی، جمع و تفریق)،تقویت visual perception(اکمال دیداری)</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -172,14 +172,42 @@
 			<nativecode>armeabi-v7a</nativecode>
 		</package>
 	</application>
+	<application id="com.sylphbox.wireloop.ring">
+		<id>com.sylphbox.wireloop.ring</id>
+		<added>2021-08-31</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>Ring</name>
+		<summary>بهبود توجه(sustain attention)، هماهنگی چشم و دست</summary>
+		<icon>com.sylphbox.wireloop.ring.35.png</icon>
+		<desc>بهبود توجه(sustain attention)، هماهنگی چشم و دست</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>35</marketvercode>
+		<package>
+			<version>1.3.5</version>
+			<versioncode>35</versioncode>
+			<apkname>4_5865977229485280078.apk.apk</apkname>
+			<hash type="sha256">50745a68ce5be075f152260534a276f69c513f31d1e8ca503a6e209eb367aa9b</hash>
+			<size>16249680</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>34bca98997d6185d6f1000357b75ce17</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
 	<application id="net.lemau.woodenpuzzlekids">
 		<id>net.lemau.woodenpuzzlekids</id>
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>Wooden Puzzle Kids</name>
-		<summary></summary>
+		<summary>بهبود visual perception(اکمال دیداری)</summary>
 		<icon>net.lemau.woodenpuzzlekids.1.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>بهبود visual perception(اکمال دیداری)</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -205,9 +233,10 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-31</lastupdated>
 		<name>کودک دانا</name>
-		<summary></summary>
+		<summary>یادگیری میوه ، سبزیجات ، اعضای بدن ، وسایل حمل و نقل  ارتقای تمییز شنیداری</summary>
 		<icon>com.peyman.wisekid.12.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>یادگیری میوه ، سبزیجات ، اعضای بدن ، وسایل حمل و نقل 
+ارتقای تمییز شنیداری</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
